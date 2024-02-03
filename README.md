@@ -1,8 +1,5 @@
 ## Splitit Service
 
-![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
-![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
-
 ### Sections :
 * [Project Goal](#project-goal-)
 * [Tech Stacks](#tech-stacks-%EF%B8%8F)
